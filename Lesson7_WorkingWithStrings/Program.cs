@@ -51,7 +51,7 @@ namespace Lesson7_WorkingWithStrings
                 myString.Append(i);
             }
 
-
+            
 
             //string myString = " ";
             Console.WriteLine(myString);
